@@ -1,0 +1,11 @@
+{
+	"name": "chat",
+	"version": "0.0.1",
+	"private": "true"
+	"description": "Real time web chat",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest"
+	},
+	"author":"developer"
+}
